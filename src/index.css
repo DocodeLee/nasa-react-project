@@ -24,7 +24,7 @@
 .imgContainer {
   display: flex;
   flex-direction: column;
-  max-height: 100vh;
+  max-height: 200vh;
 }
 .bgImage {
   width: 100%;
